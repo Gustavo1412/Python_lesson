@@ -14,3 +14,7 @@ print(PI)
 # string 
 name = 'TOM'
 print(name)
+
+# remainder
+remainder = 13 % 2 
+print(remainder)
